@@ -25,8 +25,8 @@ This project is a **service and pricing webpage for DentEst Dental Clinic**, bui
 
 ## 🚀 Getting Started
 
-1. Clone the repository: git clone https://github.com/your-username/dentest.git
-2. Navigate to the project folder:
+1. Clone the repository: https://github.com/infokoodiorav-prog/DentEst_HambaKliinik.git
+2. Navigate to the project folder.
 3. Open in your browser: index.html
 
 4. ---
